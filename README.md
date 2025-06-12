@@ -1,11 +1,25 @@
-## 🎮 Spaceship
+<p align="center">
+<img src="https://github.com/user-attachments/assets/256d122e-e967-43d9-be1e-d65b25950184" width="300">
+</p>
 
-### 📝 Description  
+<h1 align="center"> 
+Star Blast
+</h1>
+
+<p align="center">
 Control a spaceship to dodge enemies and shoot them. Supports cooperative two-player gameplay.
+</p>
 
 ---
+## 🎮 Gameplay Showcase
 
-### 🕹️ Controls
+Here’s a quick look at star blast in action:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0ed9bd4c-e371-4630-9228-c628b37ecccf" width="300">
+</p>
+
+
+## 🕹️ Controls
 
 | Button   | Action         |
 |----------|----------------|
@@ -19,13 +33,13 @@ Control a spaceship to dodge enemies and shoot them. Supports cooperative two-pl
 
 ---
 
-### 🧠 Logic Overview  
+## 🧠 Logic Overview  
 Tracks player positions, enemy movement, and bullet trajectories.  
 Collisions are detected between enemies, players, and bullets.
 
 ---
 
-### 🧩 Game Loop Structure  
+## 🧩 Game Loop Structure  
 1. Read input  
 2. Move player and bullets  
 3. Move enemies  
@@ -34,7 +48,7 @@ Collisions are detected between enemies, players, and bullets.
 
 ---
 
-### ❌ End Conditions  
+## ❌ End Conditions  
 - One of the players reaches the score cap  
 - Exit input is received  
 
