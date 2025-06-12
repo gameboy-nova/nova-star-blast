@@ -15,7 +15,7 @@ Control a spaceship to dodge enemies and shoot them. Supports cooperative two-pl
 
 Here’s a quick look at star blast in action:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0ed9bd4c-e371-4630-9228-c628b37ecccf" width="300">
+<img src="https://github.com/user-attachments/assets/0ed9bd4c-e371-4630-9228-c628b37ecccf" width="500">
 </p>
 
 
